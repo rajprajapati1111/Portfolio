@@ -42,7 +42,7 @@ function Projects() {
                           Stylish navigation bar with a minimal yet functional layout.
                           Perfectly balanced typography and color scheme to highlight promotions and offers."
               ghLink="https://github.com/rajprajapati1111/food-app"
-              demoLink="https://food-mqx7f63nn-rajprajapati1111s-projects.vercel.app/"
+              demoLink="https://food-app-tan-iota.vercel.app/"
             />
           </Col>
 
